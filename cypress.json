@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://www.hajper.com/",
+  "defaultCommandTimeout": 20000,
+  "chromeWebSecurity": false,
+  "pageLoadTimeout": 20000,
+  "video": false,
+  "viewportWidth": 1920,
+  "viewportHeight": 1080
+}

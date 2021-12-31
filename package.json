@@ -1,0 +1,15 @@
+{
+  "name": "testTask",
+  "version": "1.0.0",
+  "description": "cypress",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "e2e": "npx cypress run --headed"
+  },
+  "author": "",
+  "license": "General",
+  "dependencies": {
+    "cypress": "^9.0.0"
+  }
+}
